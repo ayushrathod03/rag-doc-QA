@@ -12,7 +12,7 @@ A Retrieval-Augmented Generation (RAG) document Q&A application built with **Str
 
 ## Live Demo
 
-**App URL:** [https://grounded-rag-doc-qa.streamlit.app](https://grounded-rag-doc-qa.streamlit.app)
+**App URL:** [https://ayush-rag-doc.streamlit.app/](https://ayush-rag-doc.streamlit.app/)
 
 No local files required to try it out:
 1. Open the live app (pre-configured via Streamlit Secrets, or paste your own Gemini API key in the sidebar).
